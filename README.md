@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @zulzayn
-- 👀 I’m interested in Web Development and Mobile Development
-- 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on any project
-- 📫 Reach me here zulzayn.com
+👋 Hi, I’m @zulzayn
+
+👀 I’m interested in Web Development and Mobile Development
+
+🌱 I’m currently learning React JS
+
+💞️ I’m looking to collaborate on any project
+
+📫 Reach me here zulzayn.com
 
 <!---
 zulzayn/zulzayn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
