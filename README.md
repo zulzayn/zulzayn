@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning React JS
 
-🌱 My stack currently on Laravel, Node JS, and Flutter. 
+🌱 My stack currently on Backend are Laravel and Node JS and Frontend are Flutter and PWA. 
 
 💞️ I’m looking to collaborate on any project
 
