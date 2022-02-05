@@ -4,6 +4,8 @@
 
 🌱 I’m currently learning React JS
 
+🌱 My stack currently on Laravel, Node JS, and Flutter. 
+
 💞️ I’m looking to collaborate on any project
 
 📫 Reach me here zulzayn.com
