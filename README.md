@@ -8,7 +8,7 @@
 
 💞️ I’m looking to collaborate on any project
 
-📫 Reach me here zulzayn.com
+📫 Reach me here zulzayn.com and also visit my GitLab https://gitlab.com/zulzayn
 
 <!---
 zulzayn/zulzayn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
