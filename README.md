@@ -1,10 +1,8 @@
 👋 Hi, I’m @zulzayn
 
-👀 I’m interested in Web Development and Mobile Development
+👀 I’m Laravel + Vue Enthusiast and Flutter and .Net + Angular Baby
 
-🌱 I’m currently learning React JS
-
-🌱 My stack currently on Backend are Laravel and Node JS and Frontend are Flutter and PWA. 
+🌱 Im interested in Web, API and Hybrid mobile development. 
 
 💞️ I’m looking to collaborate on any project
 
