@@ -1,6 +1,6 @@
 👋 Hi, I’m @zulzayn
 
-👀 I’m Laravel + Vue Enthusiast and Flutter and .Net + Angular Baby
+👀 I’m Laravel + Vue Enthusiast 
 
 🌱 Im interested in Web, API and Hybrid mobile development. 
 
