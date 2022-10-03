@@ -2,7 +2,7 @@
 
 👀 I’m Laravel + Vue Enthusiast 
 
-🌱 Im interested in Web, API and Hybrid mobile development. 
+🌱 Im interested in Web, API and Hybrid Mobile development. 
 
 💞️ I’m looking to collaborate on any project
 
