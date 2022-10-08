@@ -1,8 +1,10 @@
 👋 Hi, I’m @zulzayn
 
 👀 I’m Laravel + Vue Enthusiast 
+👀 I`m also into Flutter for Hybrid Apps
+👀 I`m also actively learning .Net Core + Angular
 
-🌱 Im interested in Web, API and Hybrid Mobile development. 
+🌱 Im interested in Web Application, Web API and Hybrid Mobile development. 
 
 💞️ I’m looking to collaborate on any project
 
