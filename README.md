@@ -2,9 +2,7 @@
 
 <br>
 
-👀 I’m Laravel + Vue Enthusiast 
-
-👀 I`m also into Flutter for Hybrid Apps
+👀 I’m Laravel Enthusiast 
 
 👀 I`m also actively learning .Net Core + Angular
 
