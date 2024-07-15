@@ -2,13 +2,14 @@
 
 <br>
 
-👀 I’m Laravel Enthusiast 
+👀 I’m Laravel Enthusiast and Cloud Tech for almost a decade
 
-👀 I`m also actively learning .Net Core + Angular
+👀 I`m actively learning .Net Core + Angular currently
 
 <br>
 
-🌱 Im interested in Web Application, Web API and Hybrid Mobile development. 
+🌱 My core is in developing Web Apps, Web API and Hybrid Mobile Apps. 
+🌱 Im also crazily into Cloud Computing. 
 
 💞️ I’m looking to collaborate on any project
 
