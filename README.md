@@ -2,14 +2,14 @@
 
 <br>
 
-👀 I’m Laravel Enthusiast and Cloud Tech for almost a decade
+👀 I’m Laravel & .Net Core Enthusiast and Cloud Tech for almost a decade
 
-👀 I`m actively learning .Net Core + Angular currently
+👀 I`m actively Vibe Coding
 
 <br>
 
 🌱 My core is in developing Web Apps, Web API and Hybrid Mobile Apps. 
-🌱 Im also crazily into Cloud Computing. 
+🌱 Im also crazily practicing into Cloud Computing and Enterprise Grade DevSecOps practice.
 
 💞️ I’m looking to collaborate on any project
 
